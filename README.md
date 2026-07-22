@@ -1,4 +1,4 @@
-# GenAI Chat Assistant with RAG
+# AI-Powered Document Q&A Service
 
 ## Project Overview
 This project implements a GenAI-powered chat assistant using Retrieval-Augmented Generation (RAG).
